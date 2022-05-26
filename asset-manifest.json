@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/donation/static/css/main.b95ad0b7.css",
+    "main.js": "/donation/static/js/main.22e4eed8.js",
+    "static/js/787.06d42907.chunk.js": "/donation/static/js/787.06d42907.chunk.js",
+    "index.html": "/donation/index.html",
+    "main.b95ad0b7.css.map": "/donation/static/css/main.b95ad0b7.css.map",
+    "main.22e4eed8.js.map": "/donation/static/js/main.22e4eed8.js.map",
+    "787.06d42907.chunk.js.map": "/donation/static/js/787.06d42907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95ad0b7.css",
+    "static/js/main.22e4eed8.js"
+  ]
+}
