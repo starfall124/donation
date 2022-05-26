@@ -1,0 +1,26 @@
+.notification {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 500;
+  position: relative;
+  background-color: #e4ebfd;
+  border-radius: 8px;
+  padding: 10px 15px;
+  color: #809dc8;
+
+  &__amount {
+    font-weight: bolder;
+    color: #6d83cf;
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 90%;
+    border: 10px solid transparent;
+    border-top-color: #e4ebfd;
+    border-bottom: none;
+    margin-left: -10px;
+    margin-bottom: -10px;
+  }
+}
